@@ -22,4 +22,5 @@
  */
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
 echo "dkfa;lsdfjalk;sdfjak;lsdfjas";
+echo "again";
 ?>

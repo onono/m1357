@@ -1,0 +1,18 @@
+[33mcommit c12455a9afc50d37ac25a25b8ec6467ca13fd18d[m
+Author: Ryu <ryu@one2crowd-desktop.(none)>
+Date:   Wed Mar 3 18:08:07 2010 +0700
+
+    add echo
+
+[1mdiff --git a/app/index.php b/app/index.php[m
+[1mindex 4e60b84..1708a9f 100644[m
+[1m--- a/app/index.php[m
+[1m+++ b/app/index.php[m
+[36m@@ -21,4 +21,5 @@[m
+  * @license       http://www.opensource.org/licenses/mit-license.php The MIT License[m
+  */[m
+ require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';[m
+[31m-?>[m
+\ No newline at end of file[m
+[32m+[m[32mecho "dkfa;lsdfjalk;sdfjak;lsdfjas";[m
+[32m+[m[32m?>[m
